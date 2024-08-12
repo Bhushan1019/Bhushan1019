@@ -37,7 +37,7 @@ I am currently learning React Native
 
 ### My Skill Set
 
-![React-Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
+![React-Native](https://img.shields.io/badge/-React-000?&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
