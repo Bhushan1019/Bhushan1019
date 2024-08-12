@@ -37,7 +37,7 @@ I am currently learning React Native
 
 ### My Skill Set
 
-![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
+![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -52,16 +52,5 @@ I am currently learning React Native
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 
-<b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
-  <!--   Profile views counter -->
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhushan1019&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan" /> </p>
-  <!-- Streak -->
-  <img  src="https://streak-stats.demolab.com?user=Bhushan1019&theme=gotham&hide_border=true&card_width=550"/>
-  <!-- Stats -->
-  <img  src="https://github-readme-stats.vercel.app/api?username=Bhushan1019&show_icons=true&theme=gotham&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-</div>
-
-<a href="https://github.com/Bhushan1019" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan1019&langs_count=10&theme=gotham&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
