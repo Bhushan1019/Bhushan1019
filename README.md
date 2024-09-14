@@ -12,7 +12,8 @@ I am currently learning React Native
 
 ### 🔭Currently Working on
 
-* Developing a ticket booking and confirmation Application using react-native
+* Developing a wordle game using react-native
+* Developing a ticket booking and confirmation Application using react-native and Golang
 * Developing a Fintech clone using react-native
 
 ### 🌱 I’m currently learning
