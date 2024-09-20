@@ -14,7 +14,6 @@ I am currently learning React Native
 
 * Developing a wordle game using react-native
 * Developing a ticket booking and confirmation Application using react-native and Golang
-* Developing a Fintech clone using react-native
 
 ### 🌱 I’m currently learning
 
